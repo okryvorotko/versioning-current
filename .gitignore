@@ -132,3 +132,4 @@ dist
 # other
 .idea
 package-lock.json
+.run
